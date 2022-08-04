@@ -13,7 +13,7 @@
   height: var(--size);
   width: var(--size);
   border-radius: var(--size);
-  background-color: black;
+  background-color: crimson;
   display: flex;
   justify-content: center;
   align-items: center;
